@@ -5,8 +5,9 @@ date: 2024-12-05 12:53:00 -0700
 modified: 2024-12-05 12:53:00 -0700
 description: People with computer science, physics, math and other computational background tend to ask the same questions regarding joining the longevity research field. I've tried to summarize my experience and advice for how to transition to aging research as smooth as possible.
 tag:
-  - career-path
+  - my-career-path
   - longevity
+  - aging
   - physics
 image: /cara-memperbarui-fork-repository/repo.png
 ---
