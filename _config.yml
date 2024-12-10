@@ -1,7 +1,7 @@
 # Site settings
 title: Andrei Tarkhov # site title
 description: >- # site description
-  longevity and aging research with a heavy focus on computational approaches, applied ai, computational biology & physics, dynamical systems & chaos theory
+  I work on understanding the fundamental mechanisms of aging through compbio & applied ai, physics & chaos theory with the goal to find practical ways extend longevity
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/avatar.jpeg # This image used for Open Graph more info https://ogp.me/
