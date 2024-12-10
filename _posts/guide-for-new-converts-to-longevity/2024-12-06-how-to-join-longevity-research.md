@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can a person with computational background join longevity field?
+title: How can a person with computational background join the longevity field?
 date: 2024-12-07 12:53:00 -0700
 modified: 2024-12-07 12:53:00 -0700
 description: People with computer science, physics, math and other computational background tend to ask the same questions regarding joining the longevity research field. I've tried to summarize my experience and advice for how to transition to aging research as smooth as possible.
