@@ -1,5 +1,5 @@
 ---
-title: Andrei Tarkhov, Ph.D
+title: Andrei E. Tarkhov, Ph.D
 permalink: /about/
 layout: page
 excerpt: this blog is for sharing some of my thoughts on aging and longevity research, and on computationally heavy science overall

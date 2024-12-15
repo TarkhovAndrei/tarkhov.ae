@@ -31,3 +31,4 @@ Let me first summarize my own career path and how I ended up doing longevity and
 ##### Resources
 
 - [How can a person with computational background can join longevity field?](/how-to-join-longevity-research)
+- [My bird's eye view on longevity and aging](/birds-eye-view-on-longevity)

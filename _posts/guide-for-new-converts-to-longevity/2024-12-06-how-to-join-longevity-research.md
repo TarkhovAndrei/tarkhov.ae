@@ -39,3 +39,8 @@ If you wonder what career paths or typical scenarios await you as a person comin
 1. Actual computational research. It's neither IT/tech support, nor development of tools. You think about hypotheses (or A/B tests if it's more familiar for you), find some data produced by someone else or beg wetlab scientists to produce more for you, test your hypotheses, improve and repeat. You can even try out wetlab yourself, if you find a person who can introduce you to this art.
 
 Of course, it's not black and white, and most likely you will have to do all those things to various degrees. For me it's typically something like 10/10/80%. For others, it may be the opposite — 80/10/10 or 10/80/10, or any other combinations.
+
+##### Resources
+
+- [A summary of my own journey to longevity research is summarized here](/my-path-to-longevity-research)
+- [My bird's eye view on longevity and aging](/birds-eye-view-on-longevity)
