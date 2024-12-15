@@ -23,9 +23,12 @@ author:
     </p>
 
   username: tarkhov # general username
-  github: TarkhovAndrei # github username
-  twitter: Andrei_Tarkhov # twitter username
-  facebook: tarkhov.andrey # facebook username
+  github: https://github.com/TarkhovAndrei # github username
+  twitter: https://x.com/Andrei_Tarkhov # twitter username
+  linkedin: https://www.linkedin.com/in/andrei-tarkhov-096ba585/
+  facebook: https://www.facebook.com/tarkhov.andrey # facebook username
+  researchgate: https://www.researchgate.net/profile/Andrei-Tarkhov
+  scholar: https://scholar.google.com/citations?user=2IdDuJoAAAAJ&hl=en
   email: tarkhov.andrey@gmail.com # email adress
   avatar: /assets/img/avatar.jpeg # change with your own avatar
 
