@@ -21,6 +21,9 @@ author:
     <p>
       currently at <a href="https://retro.bio">retro.bio</a>, building applied ai to facilitate the development of life-extending and anti-aging therapies.
     </p>
+    <p>
+      <i>feel free to reach out to me via email <b><a href="mailto:hi@tarkhov.ae">hi@tarkhov.ae</a></b>, or <b><a href="contact/">other channels</a></b></i>
+    </p>
 
   username: tarkhov # general username
   github: https://github.com/TarkhovAndrei # github username
@@ -30,6 +33,7 @@ author:
   researchgate: https://www.researchgate.net/profile/Andrei-Tarkhov
   scholar: https://scholar.google.com/citations?user=2IdDuJoAAAAJ&hl=en
   email: tarkhov.andrey@gmail.com # email adress
+  contact_email: hi@tarkhov.ae
   avatar: /assets/img/avatar.jpeg # change with your own avatar
 
 # URL settings

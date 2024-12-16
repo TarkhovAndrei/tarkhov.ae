@@ -1,6 +1,6 @@
 ---
 title: Andrei E. Tarkhov, Ph.D
-permalink: /about/
+permalink: /contact/
 layout: page
 excerpt: this blog is for sharing some of my thoughts on aging and longevity research, and on computationally heavy science overall
 comments: false
@@ -10,7 +10,8 @@ longevity researcher with a phd in theoretical physics. my dream is to understan
 
 
 **feel free to reach out to me via** <br>
-- [email](mailto:{{ site.author.email }})
+- [{{ site.author.contact_email }}](mailto:{{ site.author.contact_email }})
+- [personal email](mailto:{{ site.author.email }})
 - [linkedin]({{site.author.linkedin}})
 - [twitter/X]({{site.author.twitter}})
 
