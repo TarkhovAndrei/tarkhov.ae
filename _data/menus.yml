@@ -3,8 +3,8 @@
   external: false
 
 - title: publications
-  url: /publications/
-  external: false
+  url: https://scholar.google.com/citations?user=2IdDuJoAAAAJ&hl=en
+  external: true
 
 - title: blog
   url: /blog/
