@@ -3,7 +3,7 @@ layout: post
 title: Locomotor activity as a biomarker of aging?
 date: 2024-12-16 12:53:00 -0700
 modified: 2024-12-16 12:53:00 -0700
-description: Locomotor activity as a biomarker of aging?
+description: In this post I describe my first aging research project — locomotor biomarker of aging for fruit flies and humans
 tag:
   - biomarker
   - aging
