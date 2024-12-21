@@ -106,13 +106,14 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
     <div class="publication-fig">
         <a class="noarrow" href="https://elifesciences.org/articles/57242" target="_blank">
             <figure>
-                <img src="/assets/img/elifehead.png">
-                <!-- <img src="/assets/img/elifefig.png" alt="Featured as Top-1 in Cell and Molecular Biology in 2019"> -->
+                <img src="/assets/img/elifefig.png" alt="Featured as Top-1 in Cell and Molecular Biology in 2019">
+                <img src="/assets/img/elifehead.png" height=50>
                 <figcaption>Insight by eLife (Joris Deelen)</figcaption>
             </figure>
         </a>
     </div>
     <div class="publication-text">
+                
         <p>A.V. Shindyapina, A.A. Zenin, <strong>A.E. Tarkhov</strong>, D. Santesmasses, P.O. Fedichev, V.N. Gladyshev. Germline burden of rare damaging variants negatively affects human healthspan and lifespan. <br><i><b>eLife</b></i> 9, e53449 (2020). <br><a class="noarrow" href="https://doi.org/10.7554/eLife.53449" target="_blank">10.7554/eLife.53449</a></p>
     </div>
 </div>
@@ -197,7 +198,8 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
     <div class="publication-fig">
         <a class="noarrow" href="https://www.biorxiv.org/content/10.1101/2022.08.02.502559v1.abstract" target="_blank">
             <figure>
-                <img src="/assets/img/bioarxiv.png">
+                <img src="/assets/img/bioarxiv.png" height=50>
+                <img src="/assets/img/frogs.png">
                 <figcaption>Aging and embryonic development in frogs</figcaption>
              </figure>
         </a>
