@@ -38,4 +38,4 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
 
 
 ## PhD thesis in theoretical physics
-**A.E. Tarkhov.** [*Ergodization dynamics of the Gross-Pitaevskii equation on a lattice*](https://www.skoltech.ru/en/education/phd-defenses/2020-2/andrei-tarkhov/) (Doctoral thesis). Skolkovo Institute of Science and Technology, Moscow, Russia (2020).
+**A.E. Tarkhov.** [*Ergodization dynamics of the Gross-Pitaevskii equation on a lattice*](https://www.skoltech.ru/en/education/phd-defenses/2020-2/andrei-tarkhov/) (Doctoral thesis, supervisor [Boris V. Fine](https://www.physik.uni-leipzig.de/~fine/)). Skolkovo Institute of Science and Technology, Moscow, Russia (2020).
