@@ -6,7 +6,7 @@ comments: false
 date: 2024-12-20
 ---
 
-You can check out the full list on [google scholar]({{site.author.scholar}}). Below, I'll highlight three separate blocks: publications and patents in aging, and publications in physics.
+You can check out the full list on [google scholar]({{site.author.scholar}}). Below, I'll highlight my [publications in aging](#papers-in-aging), and [patents in aging](#patents-in-aging), and [publications in physics](#papers-in-physics), and [my PhD thesis in physics](#phd-thesis-in-theoretical-physics) as a bonus.
 
 ### papers in aging
 <div class="publication">
