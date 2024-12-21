@@ -51,7 +51,7 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
         <a class="noarrow" href="https://www.nature.com/collections/gbcaiifcbh" target="_blank">
             <figure>
                 <img src="/assets/img/scirep_header.svg" width=200>
-                <img src="/assets/img/scirep_top1.jpg" width=200 alt="Featured as Top-1 in Cell and Molecular Biology in 2019">
+                <img src="/assets/img/worms.png" width=200 alt="Featured as Top-1 in Cell and Molecular Biology in 2019">
                 <figcaption>Top-1 in Cell and Molecular Biology in 2019</figcaption>
             </figure>
         </a>
