@@ -5,7 +5,7 @@ layout: page
 comments: false
 ---
 
-If you have a question about aging/longevity or physics, need a consultation, look for advice or simply want to chat
+If you have a question about aging/longevity or physics, need a formal consultation, look for advice or simply want to chat
 
 **feel free to reach out to me via** <br>
 - [{{ site.author.contact_email }}](mailto:{{ site.author.contact_email }})
