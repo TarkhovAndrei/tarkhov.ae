@@ -5,6 +5,9 @@ layout: page
 comments: false
 ---
 
+
+I work on understanding the fundamental mechanisms of aging through compbio & applied ai, physics & chaos theory with the goal to find practical ways extend longevity.
+
 If you have a question about aging/longevity or physics, need a formal consultation, look for advice or simply want to chat
 
 **feel free to reach out to me via** <br>

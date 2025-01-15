@@ -16,13 +16,10 @@ author:
       longevity researcher with a phd in theoretical physics. my dream is to understand why we age and leverage it to significantly impact human health and longevity.
     </p>
     <p>
-      long-term: I work on understanding the fundamental mechanisms of aging through compbio & applied ai, physics & chaos theory with the goal to find practical ways extend longevity.
-    </p>
-    <p>
       currently at <a href="https://retro.bio">retro.bio</a>, building applied ai to facilitate the development of life-extending and anti-aging therapies.
     </p>
     <p>
-      <i>If you have a question about aging/longevity or physics, need a formal consultation, look for advice or simply want to chat feel free to reach out to me via email <b><a href="mailto:hi@tarkhov.ae">hi@tarkhov.ae</a></b>, or <b><a href="contact/">other channels</a></b></i>
+      <i>Reach out to me via email <b><a href="mailto:hi@tarkhov.ae">hi@tarkhov.ae</a></b>, or <b><a href="contact/">other channels</a></b></i>
     </p>
 
   username: tarkhov # general username
@@ -47,6 +44,9 @@ fb_appid:
 collections:
   posts:
     output: true
+  hobbies:
+    output: true
+    permalink: /hobbies/:title/
 
 # Markdown settings
 markdown: kramdown
@@ -84,6 +84,8 @@ sass:
 include:
   - _redirects
   - .htaccess
+  - assets
+  - assets/videos
 
 exclude:
   - CNAME
