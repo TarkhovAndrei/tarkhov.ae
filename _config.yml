@@ -84,8 +84,8 @@ sass:
 include:
   - _redirects
   - .htaccess
-  - assets
-  - assets/videos
+#  - assets
+#  - assets/videos
 
 exclude:
   - CNAME
