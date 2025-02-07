@@ -19,4 +19,5 @@ If you have a question about aging/longevity or physics, need a formal consultat
 **you can also check out my** <br>
 - [google scholar]({{site.author.scholar}})
 - [researchgate]({{site.author.researchgate}})
-- [github]({{site.author.github}})
+- [github]({{site.author.github}})  
+- [download my resume/cv](/assets/cv/CV_Tarkhov_AE_02062025.pdf)

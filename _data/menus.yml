@@ -10,6 +10,14 @@
   url: /blog/
   external: false
 
+- title: cv
+  url: /assets/cv/CV_Tarkhov_AE_02062025.pdf
+  external: true
+
+#- title: birds & co
+#  url: /hobbies-list/
+#  external: false
+
 - title: contact
   url: /contact/
   external: false # set true if you using external link, see below
