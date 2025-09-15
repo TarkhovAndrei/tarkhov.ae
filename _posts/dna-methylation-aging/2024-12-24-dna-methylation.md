@@ -11,7 +11,6 @@ tag:
 image: /cara-memperbarui-fork-repository/repo.png
 ---
 
-### 
 Human aging has been under scrutiny for thousands of years, and relatively recent advances in hygiene, medicine and nutrition allow people to live longer on average, though the maximum human lifespan has barely changed. We still don’t understand the basic mechanisms of aging, hence real progress in extending maximum human lifespan has been modest. 
 
 To study aging, we need to have a way to measure it. Chronological age is the most obvious choice, but it doesn't help uncovering molecular mechanisms of aging. It'd be great to have a more informative biomarker of aging. I wrote earlier about the difficulties of defining biological age, e.g. [to build one based on locomotor activity one needs dozens of thousands of samples](/locomotor-biomarker-of-age), [transcriptomic aging clocks are also quite noisy](/temporal-scaling-of-aging). There is, however, one notable exception. 
