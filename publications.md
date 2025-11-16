@@ -6,9 +6,28 @@ comments: false
 date: 2024-12-20
 ---
 
-You can check out the full list on [google scholar]({{site.author.scholar}}). Below, I'll highlight my [publications in aging](#papers-in-aging), and [patents in aging](#patents-in-aging), and [publications in physics](#papers-in-physics), and [my PhD thesis in physics](#phd-thesis-in-theoretical-physics) as a bonus.
+You can check out the full list on [google scholar]({{site.author.scholar}}). Below, I'll highlight my [publications on aging](#papers-in-aging), and [patents on aging](#patents-in-aging), and [publications on physics](#papers-in-physics), and [my PhD thesis in physics](#phd-thesis-in-theoretical-physics) as a bonus.
 
-### papers in aging
+### publications on aging
+
+<div class="publication">
+    <h4>OpenAI and Retro Biosciences collaboration</h4>
+    <div class="publication-fig">
+        <a class="noarrow" href="https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/" target="_blank">
+            <figure>
+                <img src="/assets/img/yamanaka.png" width=180
+                alt="Yamanaka factors">
+                <figcaption>Led dry lab science behind the project</figcaption>
+             </figure>
+        </a>
+    </div>
+    <div class="publication-text">
+        <p>OpenAI and Retro Biosciences successfully developed GPT‑4b micro, a miniature version of GPT‑4o specialized for protein engineering, and leveraged it to design novel and significantly enhanced variants of the Yamanaka factors.</p>
+    </div>
+</div>
+
+<hr>
+
 <div class="publication">
     <h4>Nature of epigenetic aging from a single-cell perspective.</h4>
     <div class="publication-fig">
@@ -209,12 +228,12 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
     </div>
 </div>
 
-### patents in aging
+### patents on aging
 - Compounds, compositions and methods for treating age-related diseases and conditions (priority date February 10, 2021) [WO2022173333A2](https://patents.google.com/patent/WO2022173333A2/en), [EP4291239A2](https://patents.google.com/patent/EP4291239A2/en)
 - Methods of biological age evaluation and systems using such methods (priority date January 16, 2020) [WO2021145798A2](https://patents.google.com/patent/WO2021145798A2/en), [US20220351865A1](https://patents.google.com/patent/US20220351865A1/en)
 - Devices, methods, compositions and systems for the treatment of aging and age-related disorders (priority date July 17, 2018) [WO2020018005A1](https://patents.google.com/patent/WO2020018005A1/en?oq=WO2020018005A1), [US20210260113A1](https://patents.google.com/patent/US20210260113A1/en)
 
-### papers in physics
+### papers on physics
 
 <div class="publication">
     <h4>Transient ordering in the Gross-Pitaevskii lattice after an energy quench within a nonordered phase.</h4>
