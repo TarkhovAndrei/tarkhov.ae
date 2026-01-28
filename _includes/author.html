@@ -4,6 +4,7 @@
     src="{{ site.author.avatar }}"
     alt="{{ site.author.username }}"
   />
-  <h2 class="author-name">{{ site.author.name }}, Ph.D.</h2>
-  <p class="author-bio">{{ site.author.bio }}</p>
+  {%- capture author_key -%}author_{{ site.active_lang }}{%- endcapture -%}
+  <h2 class="author-name">{{ site.data.locales[author_key].name }}{% if site.data.locales[site.active_lang].author.phd_title != '' %}{{ site.data.locales[site.active_lang].author.phd_title }}{% endif %}</h2>
+  <p class="author-bio">{{ site.data.locales[author_key].bio }}</p>
 </div>

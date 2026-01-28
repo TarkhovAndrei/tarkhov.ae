@@ -9,6 +9,7 @@ tag:
   - DNA mutations
   - DNA methylation
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 The idea that aging is caused by DNA mutations is definitely not new ([Szilard, 1959](https://www.pnas.org/doi/10.1073/pnas.45.1.30?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)), though whether it's supported by experimental data has been debated since then. Even under extreme exposure to radiation in Hiroshima and Nagasaki ([Cologne et al., 2000](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)02506-X/abstract)), the resulting average lifespan decrease was estimated to be only 4 months, and up to 2.6 years in the group with the most extreme but non-lethal doses of radiation (greater than 1 Gy, mean dose 2.25 Gy). We estimated the variability of the effects of all ultra-rare damaging variants on lifespan to be 1.3 years, comparable to the benefit from the single-gene APOE variants of 1.24 years ([Shindyapina et al., 2020](https://doi.org/10.7554/eLife.53449)). It's surprisingly hard to find some strong associations between lifespan and genetic variants in normally aging populations, and the predicted effects are minute compared to the average lifespan of humans — and with the two well-known exceptions they are rather damaging.

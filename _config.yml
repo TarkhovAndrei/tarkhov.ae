@@ -40,6 +40,12 @@ permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
+# Polyglot configuration
+languages: ["en", "ru"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "assets", "js"]
+parallel_localization: true
+
 # Collection setting
 collections:
   posts:
@@ -84,8 +90,8 @@ sass:
 include:
   - _redirects
   - .htaccess
-#  - assets
-#  - assets/videos
+  - assets
+  - assets/videos
 
 exclude:
   - CNAME
@@ -106,3 +112,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-polyglot

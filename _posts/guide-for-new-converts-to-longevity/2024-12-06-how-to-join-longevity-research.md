@@ -9,6 +9,7 @@ tag:
   - aging
   - how-to-join
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 People with computer science, physics, math and other computational backgrounds tend to ask the same questions about joining the longevity research field. As a person who have already done it [(my own journey summarized here)](/my-path-to-longevity-research). Below, I've tried to summarize my experience and advice on how to transition to aging research as smooth as possible.

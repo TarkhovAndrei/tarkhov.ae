@@ -10,6 +10,7 @@ tag:
   - aging
   - physics
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 Let me first summarize my own career path and how I ended up doing longevity and aging research

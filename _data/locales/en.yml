@@ -1,0 +1,48 @@
+# UI Strings - English
+site:
+  recent_posts: "Recent Posts"
+  all: "all"
+
+navigation:
+  previous: "Previous"
+  next: "Next"
+  home: "home"
+  about: "about"
+
+post:
+  share_on: "Share on:"
+  updated_at: "updated_at"
+  comment_on_twitter: "Comment on this article on"
+
+share:
+  twitter: "Share this on Twitter"
+  linkedin: "Share this on Linkedin"
+  facebook: "Share this on Facebook"
+  email: "Share this through Email"
+  email_subject: "Check this out"
+
+search:
+  placeholder: "Find some articles here"
+
+footer:
+  resume: "resume"
+
+author:
+  phd_title: ", Ph.D."
+
+theme:
+  light: "LIGHT"
+  dark: "DARK"
+
+rss:
+  title: "RSS"
+
+error:
+  code: "404"
+  message: "😕 Hmm... Seems you lost from my journey."
+  back_home: "back home"
+
+date:
+  formats:
+    post_date: "%b %d, %Y"
+    updated_date: "%d-%m-%Y"

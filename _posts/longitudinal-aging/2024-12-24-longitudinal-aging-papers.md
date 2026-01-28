@@ -9,6 +9,7 @@ tag:
   - cross-sectional
   - aging
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 "We need more human longitudinal data to solve aging" — that's something you've probably heard multiple times before. But why? Wouldn't cross-sectional data suffice?

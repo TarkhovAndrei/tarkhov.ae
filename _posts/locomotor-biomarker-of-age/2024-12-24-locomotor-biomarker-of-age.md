@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Locomotor activity as a biomarker of aging?
-date: 2024-12-16 12:53:00 -0700
-modified: 2024-12-16 12:53:00 -0700
+date: 2024-12-24 12:53:00 -0700
+modified: 2024-12-24 12:53:00 -0700
 description: In this post I describe my first aging research project — locomotor biomarker of aging for fruit flies and humans
 tag:
   - biomarker
   - aging
   - locomotion
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 In this post, I want to start summarizing the most important lessons I learnt while working in aging research. I personally don't enjoy writing, it takes a lot of time and effort, and the reward for all that is usually disproportional. I never liked the "publish or perish" paradigm, I would usually only start writing a paper when I am excited about the results I have or about to produce, and have no choice but to write them up in some tangible form to share with others. Below, I'll try to highlight and share those specific excitements I had for some of the paper I co-authored, and which I personally value a lot. Some results have remained unpublished in a peer reviewed form, though I'll start with describing my first aging experiment.

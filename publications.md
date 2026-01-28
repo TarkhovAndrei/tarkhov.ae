@@ -4,6 +4,7 @@ permalink: /publications/
 layout: page
 comments: false
 date: 2024-12-20
+lang: en
 ---
 
 You can check out the full list on [google scholar]({{site.author.scholar}}). Below, I'll highlight my [publications on aging](#papers-in-aging), and [patents on aging](#patents-in-aging), and [publications on physics](#papers-in-physics), and [my PhD thesis in physics](#phd-thesis-in-theoretical-physics) as a bonus.

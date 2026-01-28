@@ -10,6 +10,7 @@ tag:
   - Olovnikov's telomeres
   - Mushkambarov's meiosis and aging
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 Here, I'm going to reminisce a bit about a highly technical paper ([Tarkhov et al. 2017](https://doi.org/10.1016/j.jtbi.2017.01.017)), and a way more interesting acquaintances it opened doors for me to. The paper attracted some attention from local gerontologists, and I was invited to give a talk at a gerontological seminar at [Emanuel Institute of Biochemical Physics of Russian Academy of Sciences](https://biochemphysics.ru/en/), which the late [Alexey Olovnikov](https://en.wikipedia.org/wiki/Alexey_Olovnikov) attended. He was the first to put forward [the telomere hypothesis of aging in 1971](https://pubmed.ncbi.nlm.nih.gov/5158754/), at least 11 years before Elizabeth Blackburn, Carol Greider, and Jack Szostak who received the [Nobel Prize for telomeres in 2009](https://www.nobelprize.org/prizes/medicine/2009/summary/). You can read more about this Nobel controversy [here](https://www.telegraph.co.uk/sponsored/rbth/6396300/No-Nobel-physiology-and-medicine-award-for-Russian-gerontologist-Aleksey-Olovnikov.html), but, rather, please, read [his legendary paper on telomeres](https://pubmed.ncbi.nlm.nih.gov/5158754/).

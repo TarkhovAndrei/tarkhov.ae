@@ -2,7 +2,7 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-
+lang: en
 ---
 
 <figure>

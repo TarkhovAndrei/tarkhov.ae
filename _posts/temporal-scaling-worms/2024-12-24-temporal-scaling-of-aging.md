@@ -9,6 +9,7 @@ tag:
   - temporal scaling
   - long-lived mutants
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 Apart from the Gompertz law and the phenomenological observations associated with it [linking the rate of aging and the initial mortality rate](/gompertz_mortality_and_plateau/), there was another interesting observation reported in [(Stroustrup *et al.*, 2016)](https://doi.org/10.1038/nature16550) regarding temporal scaling of aging trajectories in *C.elegans*. Across a lot of environmental stresses and genetic backgrounds, they observed that for most of interventions they used aging curves would simply scale as a function of the rate of aging, thus effectively being determined by a single parameter. In other words, they seem to follow the same aging trajectory with different rates. 

@@ -9,6 +9,7 @@ tag:
   - longevity
   - aging
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 On this page, I'll try to summarize my current state of understanding of aging, and then retrospectively reconstruct how I have reached that state based on the papers I co-authored, aging data I analysed or took part in analysing, and, also, the general intuition I have develop from reading other studies and talking to other people working in the aging field. Of course, it's neither extensive, self-sufficient or robust, it's rather my subjective and intuitive framework which I usually use to test various aging hypothesis and experiments in my mind. I'll try to leave a few links here and there where it may be helpful for a deeper understanding in the future.

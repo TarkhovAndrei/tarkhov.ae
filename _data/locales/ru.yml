@@ -1,0 +1,48 @@
+# UI Strings - Russian
+site:
+  recent_posts: "Последние статьи"
+  all: "все"
+
+navigation:
+  previous: "Предыдущая"
+  next: "Следующая"
+  home: "главная"
+  about: "о сайте"
+
+post:
+  share_on: "Поделиться:"
+  updated_at: "обновлено"
+  comment_on_twitter: "Комментарии к этой статье в"
+
+share:
+  twitter: "Поделиться в Twitter"
+  linkedin: "Поделиться в Linkedin"
+  facebook: "Поделиться в Facebook"
+  email: "Отправить по email"
+  email_subject: "Посмотрите это"
+
+search:
+  placeholder: "Найти статьи"
+
+footer:
+  resume: "резюме"
+
+author:
+  phd_title: ", Ph.D."
+
+theme:
+  light: "СВЕТЛАЯ"
+  dark: "ТЁМНАЯ"
+
+rss:
+  title: "RSS"
+
+error:
+  code: "404"
+  message: "😕 Хм... Кажется, вы заблудились."
+  back_home: "на главную"
+
+date:
+  formats:
+    post_date: "%d %b %Y"
+    updated_date: "%d-%m-%Y"

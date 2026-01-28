@@ -40,7 +40,8 @@
     <div class="trigger">
       <div class="trigger-container">
         {%- assign url = page.url -%}
-        {%- assign menus = site.data.menus -%}
+        {%- capture menu_key -%}menus_{{ site.active_lang }}{%- endcapture -%}
+        {%- assign menus = site.data.locales[menu_key] -%}
         {%- if menus %}
           {%- for menu in menus -%} 
             {%- if url == menu.url -%}
@@ -60,9 +61,16 @@
             {%- endif -%} 
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
+          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">{{ site.data.locales[site.active_lang].navigation.home }}</a>
+          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">{{ site.data.locales[site.active_lang].navigation.about }}</a>
         {%- endif -%}
+        <div class="language-switcher">
+          {% if site.active_lang == 'en' %}
+            <a href="{{ site.baseurl }}/ru{{ page.url }}" class="lang-link">RU</a>
+          {% else %}
+            <a href="#" onclick="window.location.href=window.location.pathname.replace('/ru/', '/').replace('/ru', '/');return false;" class="lang-link">EN</a>
+          {% endif %}
+        </div>
         <a id="mode">
           <svg
             class="mode-sunny"

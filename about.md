@@ -1,8 +1,9 @@
 ---
-title: my contacts 
+title: my contacts
 permalink: /contact/
 layout: page
 comments: false
+lang: en
 ---
 
 

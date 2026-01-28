@@ -50,13 +50,13 @@ layout: compress
           {% if page.date %}
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {{ page.date | date: "%b %d, %Y" }}
+              {{ page.date | localized_date: site.data.locales[site.active_lang].date.formats.post_date }}
             </time>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>
             </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
-              {{ page.date | date: "%b %d, %Y" }}
+              {{ page.date | localized_date: site.data.locales[site.active_lang].date.formats.post_date }}
             </time>
             <span hidden itemprop="publisher" itemtype="Person">{{ site.author.name }}</span>
             <span hidden itemprop="image">{{ page.image }}</span>
@@ -70,7 +70,7 @@ layout: compress
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% include share-buttons.html %}
           {% if page.tweet %}
-          <p>Comments this article on 
+          <p>{{ site.data.locales[site.active_lang].post.comment_on_twitter }}
             <a href="https://twitter.com/{{site.twitter}}/status/{{page.tweet}}">Twitter</a>.
           </p>
           {% endif %}
@@ -85,7 +85,7 @@ layout: compress
 
     
     {% if page.modified %}
-      <small class="post-updated-at">updated_at {{page.modified | date: "%d-%m-%Y"}}</small>
+      <small class="post-updated-at">{{ site.data.locales[site.active_lang].post.updated_at }} {{ page.modified | date: site.data.locales[site.active_lang].date.formats.updated_date }}</small>
     {% endif %}
 
     {% if page.next or page.previous %}

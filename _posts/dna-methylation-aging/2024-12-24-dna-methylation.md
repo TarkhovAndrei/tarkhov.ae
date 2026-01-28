@@ -9,6 +9,7 @@ tag:
   - stochasticity
   - co-regulation
 image: /cara-memperbarui-fork-repository/repo.png
+lang: en
 ---
 
 Human aging has been under scrutiny for thousands of years, and relatively recent advances in hygiene, medicine and nutrition allow people to live longer on average, though the maximum human lifespan has barely changed. We still don’t understand the basic mechanisms of aging, hence real progress in extending maximum human lifespan has been modest. 

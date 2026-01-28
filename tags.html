@@ -3,10 +3,11 @@ title: Tags
 permalink: /tags/
 layout: page
 excerpt: Sorted article by tags.
+lang: en
 ---
 
 <div class="archive-tags">
-  <a class="tag-item" href="#">all</a>
+  <a class="tag-item" href="#">{{ site.data.locales[site.active_lang].site.all }}</a>
   {%- for tag in site.tags -%} 
     {% capture name %}{{ tag | first }}{% endcapture %}
     <a class="tag-item" href="#{{name}}">{{ name }}</a> 
@@ -17,11 +18,13 @@ excerpt: Sorted article by tags.
   {%- capture name -%}{{ tag | first }}{%- endcapture -%}
   <h2 id="{{ name }}">{{ name | upcase }}</h2>
   {%- for post in site.tags[name] -%}
+    {%- if post.lang == site.active_lang or post.lang == nil and site.active_lang == site.default_lang -%}
     <article class="post-item" id="results-container">
-      <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <span class="post-item-date">{{ post.date | localized_date: site.data.locales[site.active_lang].date.formats.post_date }}</span>
       <h3 class="post-item-title">
         <a href="{{ post.url }}">{{ post.title | escape }}</a>
-      </h3> 
+      </h3>
     </article>
+    {%- endif -%}
   {%- endfor -%}
 {%- endfor -%}

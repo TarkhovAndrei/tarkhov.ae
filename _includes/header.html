@@ -12,13 +12,13 @@
     {% if page.title %}{{ page.title | escape }} - {{ site.title }}{% else %}{{
     site.title | escape }}{% endif %}
   </title>
+  {% for lang in site.languages %}
   <link
     rel="alternate"
-    href="{{
-      page.url | remove: 'index.html' | remove: '.html' | absolute_url
-    }}"
-    hreflang="{{ site.lang }}"
+    href="{% if lang == site.default_lang %}{{ page.url | remove: 'index.html' | remove: '.html' | absolute_url }}{% else %}{{ site.baseurl }}/{{ lang }}{{ page.url | remove: 'index.html' | remove: '.html' }}{% endif %}"
+    hreflang="{{ lang }}"
   />
+  {% endfor %}
   <link
     rel="canonical"
     href="{{
