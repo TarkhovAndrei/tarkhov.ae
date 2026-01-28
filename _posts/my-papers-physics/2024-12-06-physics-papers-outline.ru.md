@@ -11,6 +11,7 @@ tag:
 image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /physics-papers-outline/
+published: false
 ---
 
 ### Развитие моего понимания физики в статьях

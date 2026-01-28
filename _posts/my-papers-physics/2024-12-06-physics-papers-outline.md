@@ -10,6 +10,7 @@ tag:
   - how-to-join
 image: /cara-memperbarui-fork-repository/repo.png
 lang: en
+published: false
 ---
 
 ### The development of my understanding of physics in papers
