@@ -230,9 +230,10 @@ lang: ru
 </div>
 
 ### патенты по старению
-- Compounds, compositions and methods for treating age-related diseases and conditions (приоритетная дата 10 февраля 2021) [WO2022173333A2](https://patents.google.com/patent/WO2022173333A2/en), [EP4291239A2](https://patents.google.com/patent/EP4291239A2/en)
-- Methods of biological age evaluation and systems using such methods (приоритетная дата 16 января 2020) [WO2021145798A2](https://patents.google.com/patent/WO2021145798A2/en), [US20220351865A1](https://patents.google.com/patent/US20220351865A1/en)
-- Devices, methods, compositions and systems for the treatment of aging and age-related disorders (приоритетная дата 17 июля 2018) [WO2020018005A1](https://patents.google.com/patent/WO2020018005A1/en?oq=WO2020018005A1), [US20210260113A1](https://patents.google.com/patent/US20210260113A1/en)
+- Методы, композиции и соединения для лечения возрастных заболеваний и состояний (приоритетная дата 9 февраля 2022) [US20250276066A1](https://patents.google.com/patent/US20250276066A1/en)
+- Соединения, композиции и методы для лечения возрастных заболеваний и состояний (приоритетная дата 10 февраля 2021) [WO2022173333A2](https://patents.google.com/patent/WO2022173333A2/en), [EP4291239A2](https://patents.google.com/patent/EP4291239A2/en)
+- Методы оценки биологического возраста и системы, использующие такиу методы (приоритетная дата 16 января 2020) [WO2021145798A2](https://patents.google.com/patent/WO2021145798A2/en), [US20220351865A1](https://patents.google.com/patent/US20220351865A1/en)
+- Устройства, методы, композиции и системы для лечения старения и возрастных заболеваний (приоритетная дата 17 июля 2018) [WO2020018005A1](https://patents.google.com/patent/WO2020018005A1/en?oq=WO2020018005A1), [US20210260113A1](https://patents.google.com/patent/US20210260113A1/en)
 
 ### публикации по физике
 

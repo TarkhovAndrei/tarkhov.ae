@@ -230,6 +230,7 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
 </div>
 
 ### patents on aging
+- Methods, compositions and compounds for treating age-related diseases and conditions (priority date February 9, 2022) [US20250276066A1](https://patents.google.com/patent/US20250276066A1/en)
 - Compounds, compositions and methods for treating age-related diseases and conditions (priority date February 10, 2021) [WO2022173333A2](https://patents.google.com/patent/WO2022173333A2/en), [EP4291239A2](https://patents.google.com/patent/EP4291239A2/en)
 - Methods of biological age evaluation and systems using such methods (priority date January 16, 2020) [WO2021145798A2](https://patents.google.com/patent/WO2021145798A2/en), [US20220351865A1](https://patents.google.com/patent/US20220351865A1/en)
 - Devices, methods, compositions and systems for the treatment of aging and age-related disorders (priority date July 17, 2018) [WO2020018005A1](https://patents.google.com/patent/WO2020018005A1/en?oq=WO2020018005A1), [US20210260113A1](https://patents.google.com/patent/US20210260113A1/en)
