@@ -2,7 +2,6 @@
 layout: default
 home: true
 ---
-
 <h3 class="posts-item-note" aria-label="{{ site.data.locales[site.active_lang].site.recent_posts }}">{{ site.data.locales[site.active_lang].site.recent_posts }}</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
 {%- if post.lang == site.active_lang or post.lang == nil and site.active_lang == site.default_lang -%}

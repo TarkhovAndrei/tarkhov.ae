@@ -1,11 +1,11 @@
 name: "Andrei E. Tarkhov"
 bio: >
   <p>
-    longevity researcher with a phd in theoretical physics. my dream is to understand why we age and leverage it to significantly impact human health and longevity.
-  </p>
-  <p>
-    currently at <a href="https://retro.bio">retro.bio</a>, building applied ai to facilitate the development of life-extending and anti-aging therapies.
-  </p>
-  <p>
-    <i><b><a target=_blank href="/subscribe">subscribe</a></b> or reach out to me via email <b><a href="mailto:hi@tarkhov.ae">hi@tarkhov.ae</a></b>, or <b><a href="contact/">other channels</a></b></i>
+    Longevity researcher with a phd in theoretical physics. After a postdoc at Harvard, I have been developing therapies that slow down aging and extend healthy life at <a href="https://retro.bio">retro.bio</a>. My dream is to understand why we age and leverage it to significantly impact human health and longevity.
+    </p><p><i>Click to <b><a target=_blank href="/subscribe">subscribe</a></b>/<b><a href="contact/">contact</a></b> or <b><a class="consulting-btn"
+         href="https://book.stripe.com/7sYcN5fMU0W72uf5RF4AU00"
+         target="_blank" rel="noopener"
+         onclick="if(this.href==='STRIPE_30MIN_URL'){alert('Payment link not configured yet.');return false;}">
+        book a 30 min consultation
+      </a></b></i>
   </p>

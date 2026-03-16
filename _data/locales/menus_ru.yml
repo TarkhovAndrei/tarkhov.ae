@@ -2,22 +2,14 @@
   url: /
   external: false
 
+- title: консультации
+  url: /consulting/
+  external: false
+
 - title: публикации
   url: /publications/
   external: false
 
-- title: блог
-  url: /blog/
-  external: false
-
-- title: резюме
-  url: /assets/cv/Resume_Tarkhov_AE_02062025.pdf
-  external: true
-
-- title: контакты
-  url: /contact/
-  external: false
-
 - title: подписаться
-  url: /subscribe/
+  url: /contact/
   external: false

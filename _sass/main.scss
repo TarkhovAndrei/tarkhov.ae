@@ -158,6 +158,112 @@ figcaption b {
   margin-top: 0;
 }
 
+// Consulting section
+.consulting {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding-top: 1.2em;
+  border-top: 1px solid $light;
+
+  .consulting-heading {
+    margin-bottom: 8px;
+  }
+
+  .consulting-desc {
+    font-size: $small-font-size;
+    color: $text-base-color;
+    margin-bottom: 14px;
+    line-height: 1.6;
+  }
+
+  .consulting-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .consulting-option {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 0;
+    border-top: 1px solid $light;
+
+    &:last-child {
+      border-bottom: 1px solid $light;
+    }
+  }
+
+  .consulting-option-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+
+  .consulting-option-duration {
+    font-weight: $bold-weight;
+    color: $black;
+    min-width: 50px;
+  }
+
+  .consulting-option-label {
+    color: $text-base-color;
+    font-size: $small-font-size;
+  }
+
+  .consulting-btn {
+    font-size: $small-font-size;
+    font-weight: $bold-weight;
+    color: $text-link-blue;
+    text-decoration: none;
+    letter-spacing: 0.2px;
+    white-space: nowrap;
+    padding: 3px 0;
+
+    &:hover {
+      color: $text-link-blue-active;
+    }
+  }
+
+  .consulting-note {
+    font-size: $small-font-size - 1;
+    color: $gray;
+    margin-top: 10px;
+    opacity: 0.85;
+    line-height: 1.5;
+  }
+
+  @include media-query($on-mobile) {
+    .consulting-option {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 4px;
+      padding: 8px 0;
+    }
+  }
+}
+
+// Dark mode consulting
+[data-theme="dark"] {
+  .consulting {
+    border-top-color: $dark-light;
+
+    .consulting-option {
+      border-color: $dark-light;
+      &:last-child {
+        border-color: $dark-light;
+      }
+    }
+
+    .consulting-btn {
+      color: $dark-text-link-blue;
+      &:hover {
+        color: $dark-text-link-blue-active;
+      }
+    }
+  }
+}
+
 // Language switcher styles
 .language-switcher {
   display: inline-block;
@@ -205,4 +311,16 @@ html[lang="ru"] {
   .post-item-date {
     min-width: 115px;
   }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
 }

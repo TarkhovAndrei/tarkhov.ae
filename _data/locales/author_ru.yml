@@ -1,11 +1,13 @@
 name: "Андрей Е. Тархов"
 bio: >
   <p>
-    исследователь долголетия с phd в теоретической физике. моя мечта — понять, почему мы стареем, и использовать это знание, чтобы существенно продлить долголетие человека.
+    Исследователь долголетия с PhD в теоретической физике, после постдока в Гарварде разрабатываю терапии, замедляющие старение и продлевающие жизнь в <a href="https://retro.bio">retro.bio</a>. Моя мечта — понять, почему мы стареем, и использовать это знание, чтобы существенно продлить здоровое долголетие человека. 
   </p>
   <p>
-    сейчас работаю в <a href="https://retro.bio">retro.bio</a>, над прикладным ии для разработки терапий, замедляющих старение и продлевающих жизнь.
-  </p>
-  <p>
-    <i><b><a target=_blank href="/ru/subscribe">подпишитесь</a></b> или свяжитесь со мной по email <b><a href="mailto:hi@tarkhov.ae">hi@tarkhov.ae</a></b>, или через <b><a href="/ru/contact/">другие каналы</a></b></i>
+    <i>Кликните: <b><a target=_blank href="/ru/subscribe">подписаться</a></b>/<b><a href="/ru/contact/">связаться</a></b> или <b><a class="consulting-btn"
+         href="https://book.stripe.com/7sYcN5fMU0W72uf5RF4AU00"
+         target="_blank" rel="noopener"
+         onclick="if(this.href==='STRIPE_30MIN_URL'){alert('Payment link not configured yet.');return false;}">
+        забронировать консультацию (30 мин)
+      </a></b></i>
   </p>
