@@ -287,6 +287,24 @@ figcaption b {
   }
 }
 
+// Mobile: fix language switcher + mode toggle overlap in open menu
+@include media-query($on-mobile) {
+  .menu {
+    .language-switcher {
+      display: block;
+      margin: 6px 0;
+    }
+
+    a#mode {
+      float: none;
+      left: auto;
+      top: auto;
+      display: block;
+      margin: 6px auto;
+    }
+  }
+}
+
 // Dark mode language switcher
 [data-theme="dark"] {
   .language-switcher {
