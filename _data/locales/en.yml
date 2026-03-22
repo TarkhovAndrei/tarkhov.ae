@@ -24,6 +24,10 @@ share:
 search:
   placeholder: "Find some articles here"
 
+subscribe:
+  title: "Let's stay in touch"
+  description: "Subscribe to receive updates about my work in longevity research and advances of life-extending and anti-aging therapies."
+
 footer:
   resume: "resume"
 
