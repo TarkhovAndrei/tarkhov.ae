@@ -8,7 +8,6 @@ tag:
   - долголетие
   - старение
   - как присоединиться
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /how-to-join-longevity-research/
 ---

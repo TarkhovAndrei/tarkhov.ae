@@ -9,7 +9,6 @@ tag:
   - Strehler and Mildvan's theory
   - Olovnikov's telomeres
   - Mushkambarov's meiosis and aging
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

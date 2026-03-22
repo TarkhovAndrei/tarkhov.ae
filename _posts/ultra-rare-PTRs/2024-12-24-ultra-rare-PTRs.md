@@ -8,7 +8,6 @@ tag:
   - aging
   - DNA mutations
   - DNA methylation
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

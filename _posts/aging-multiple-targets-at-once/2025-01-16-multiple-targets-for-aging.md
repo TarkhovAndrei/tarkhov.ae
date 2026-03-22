@@ -9,7 +9,6 @@ description: Why do we need to act on multiple targets at once to tackle aging?
 tag:
   - aging
   - multiple targets
-image: /cara-memperbarui-fork-repository/repo.png
 published: false
 ---
 

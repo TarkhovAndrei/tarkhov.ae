@@ -9,7 +9,6 @@ tag:
   - долголетие
   - старение
   - физика
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /my-path-to-longevity-research/
 ---

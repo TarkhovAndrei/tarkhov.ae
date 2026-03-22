@@ -8,7 +8,6 @@ tag:
   - эпигенетические часы старения
   - стохастичность
   - ко-регуляция
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /dna-methylation/
 ---

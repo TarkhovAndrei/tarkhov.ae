@@ -8,7 +8,6 @@ tag:
   - старение
   - мутации ДНК
   - метилирование ДНК
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /ultra-rare-PTRs/
 ---

@@ -8,7 +8,6 @@ tag:
   - лонгитюдные данные
   - поперечные данные
   - старение
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /longitudinal-aging-papers/
 ---

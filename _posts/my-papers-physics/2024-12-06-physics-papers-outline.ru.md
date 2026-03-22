@@ -8,7 +8,6 @@ tag:
   - физика
   - нелинейная оптика
   - биофизика
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /physics-papers-outline/
 published: false

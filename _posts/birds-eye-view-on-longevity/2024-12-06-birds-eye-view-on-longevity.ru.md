@@ -8,7 +8,6 @@ tag:
   - эволюция
   - долголетие
   - старение
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /birds-eye-view-on-longevity/
 ---

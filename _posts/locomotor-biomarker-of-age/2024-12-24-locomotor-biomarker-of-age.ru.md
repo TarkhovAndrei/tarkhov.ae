@@ -8,7 +8,6 @@ tag:
   - биомаркер
   - старение
   - локомоция
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /locomotor-biomarker-of-age/
 ---

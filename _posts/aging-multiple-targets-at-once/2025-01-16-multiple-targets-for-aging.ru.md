@@ -9,7 +9,6 @@ description: Почему нам нужно воздействовать на н
 tag:
   - старение
   - множественные мишени
-image: /cara-memperbarui-fork-repository/repo.png
 published: false
 ---
 

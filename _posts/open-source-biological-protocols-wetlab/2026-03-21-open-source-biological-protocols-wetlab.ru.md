@@ -10,7 +10,6 @@ tag:
   - открытый код
   - робототехника
   - долголетие
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /open-source-biological-protocols-wetlab/
 ---

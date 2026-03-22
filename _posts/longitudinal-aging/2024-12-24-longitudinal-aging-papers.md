@@ -8,7 +8,6 @@ tag:
   - longitudinal
   - cross-sectional
   - aging
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

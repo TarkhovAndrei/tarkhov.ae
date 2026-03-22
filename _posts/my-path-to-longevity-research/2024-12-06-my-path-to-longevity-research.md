@@ -9,7 +9,6 @@ tag:
   - longevity
   - aging
   - physics
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

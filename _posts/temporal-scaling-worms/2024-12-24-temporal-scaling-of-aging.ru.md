@@ -8,7 +8,6 @@ tag:
   - транскриптомные часы старения
   - временное масштабирование
   - долгоживущие мутанты
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /temporal-scaling-of-aging/
 ---

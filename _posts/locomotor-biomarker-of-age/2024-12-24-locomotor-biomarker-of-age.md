@@ -8,7 +8,6 @@ tag:
   - biomarker
   - aging
   - locomotion
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

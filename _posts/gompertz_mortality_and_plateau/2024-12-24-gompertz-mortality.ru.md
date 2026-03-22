@@ -9,7 +9,6 @@ tag:
   - теория Стрелера-Милдвана
   - теломеры Оловникова
   - мейоз и старение Мушкамбарова
-image: /cara-memperbarui-fork-repository/repo.png
 lang: ru
 permalink: /gompertz-mortality/
 ---

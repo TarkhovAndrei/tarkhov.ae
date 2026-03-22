@@ -8,7 +8,6 @@ tag:
   - transcriptomic aging clocks
   - temporal scaling
   - long-lived mutants
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 

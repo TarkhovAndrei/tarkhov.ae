@@ -8,7 +8,6 @@ tag:
   - longevity
   - aging
   - how-to-join
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 published: false
 ---

@@ -8,7 +8,6 @@ tag:
   - epigenetic aging clocks
   - stochasticity
   - co-regulation
-image: /cara-memperbarui-fork-repository/repo.png
 lang: en
 ---
 
