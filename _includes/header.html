@@ -1,4 +1,10 @@
 <head prefix="og: http://ogp.me/ns#">
+  {% assign page_path = page.url | remove: 'index.html' | remove: '.html' %}
+  {% if site.active_lang == site.default_lang %}
+    {% assign full_url = page_path | absolute_url %}
+  {% else %}
+    {% assign full_url = site.url | append: site.baseurl | append: '/' | append: site.active_lang | append: page_path %}
+  {% endif %}
   {% include google_analytics_head.html %}
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -21,9 +27,7 @@
   {% endfor %}
   <link
     rel="canonical"
-    href="{{
-      page.url  | remove: 'index.html' | remove: '.html' | absolute_url
-    }}"
+    href="{{ full_url }}"
   />
   {% if paginator.previous_page %}
   <link
@@ -78,11 +82,10 @@
   {% else %}
   <meta property="og:type" content="website" />
   {% endif %}
+  <meta property="og:locale" content="{{ site.active_lang | default: site.lang | replace: '-', '_' }}" />
   <meta
     property="og:url"
-    content="{{
-      page.url | remove: 'index.html' | remove: '.html' | absolute_url
-    }}"
+    content="{{ full_url }}"
   />
   <meta
     property="og:description"
@@ -111,9 +114,7 @@
   />
   <meta
     name="twitter:url"
-    content="{{
-      page.url  | remove: 'index.html' | remove: '.html' | absolute_url
-    }}"
+    content="{{ full_url }}"
   />
   <meta name="twitter:site" content="@{{ site.author.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
