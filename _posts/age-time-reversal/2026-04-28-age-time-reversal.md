@@ -11,9 +11,9 @@ tag:
 lang: en
 ---
 
-I fib when I say that my PhD in physics is completely unrelated to aging. It's partly about reversibility or, rather, irreversibility of time. Ironically, one of my aging papers has "challenge of age reversal" in its title, scaled down from "impossibility of age reversal" as per a reviewer's request. Age or time, there's no way we'll reverse it.
+I fib when I say that my PhD in physics is completely unrelated to aging. It's partly about reversibility or, rather, irreversibility of time. Ironically, one of my aging papers has ["challenge of age reversal"](https://doi.org/10.59368/agingbio.20240031) in its title, scaled down from "impossibility of age reversal" as per a reviewer's request. Age or time, there's no way we'll reverse it.
 
-I'm also guilty of filching a few quotes about breaking physical symmetries from Vladimir Nabokov's "Look at the Harlequins!" for my thesis's epigraphs. If you're ignorant of Vad's struggles to spatially rotate his vivid night dreams, I may recommend reading it. I similarly have been struggling with the possibility of reversing time both in physics and biology.
+I'm also guilty of filching a few quotes about breaking physical symmetries from Vladimir Nabokov's "Look at the Harlequins!" for [my thesis's](https://www.skoltech.ru/en/education/phd-defenses/2020-2/andrei-tarkhov/) epigraphs. If you're ignorant of Vad's struggles to spatially rotate his vivid night dreams, I may recommend reading it. I similarly have been struggling with the possibility of reversing time both in physics [(Tarkhov *et al.*, 2017)](https://doi.org/10.1103/PhysRevA.96.023624) and biology [(Tarkhov *et al.*, 2024)](https://doi.org/10.59368/agingbio.20240031).
 
 Everyone knows that time is irreversible, there's no time machine. The very fact of irreversibility makes life worth living, does it? Even in very simple physical systems as soon as you have 3, 4 or more things interacting, mathematical reversibility of equations turns into physical chaos. Any slight deviation would lead to exponential divergence. By going back, we only end up in a different state. You can only have an illusion of reversibility for an instant which quickly fades away.
 
@@ -46,3 +46,8 @@ There's this concept of emergence in physics, when you combine a few simple thin
 The annoying thing is that our DNA is limited; we only have about 3 billion base pairs, and you can only record so much in it. The density of information compression is insane because a whole body is built according to this script. That is the result of 4 billion years of evolution — writing and rewriting the DNA code, selecting the best variants, mixing them together, improving them, randomly breaking them, and hoping it wouldn't make things worse.
 
 It didn't evolve to reverse time and age — hence we cannot copy it from natural evolution. We'll have to figure out the solution to aging from scratch ourselves.
+
+### References
+1. **A.E. Tarkhov**, S. Wimberger, B.V. Fine. Extracting Lyapunov exponents from the echo dynamics of Bose-Einstein condensates on a lattice. *Phys Rev A* **96**, 023624 (2017). [10.1103/PhysRevA.96.023624](https://doi.org/10.1103/PhysRevA.96.023624)
+2. **A.E. Tarkhov**. Ergodization dynamics of the Gross-Pitaevskii equation on a lattice. Doctoral thesis, Skolkovo Institute of Science and Technology (2020). [link](https://www.skoltech.ru/en/education/phd-defenses/2020-2/andrei-tarkhov/)
+3. **A.E. Tarkhov**, K.A. Denisov, P.O. Fedichev. Aging Clocks, Entropy, and the Challenge of Age Reversal. *Aging Biology* **2**, e20240031 (2024). [10.59368/agingbio.20240031](https://doi.org/10.59368/agingbio.20240031)
