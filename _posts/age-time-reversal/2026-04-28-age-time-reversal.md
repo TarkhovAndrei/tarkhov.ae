@@ -33,7 +33,7 @@ Why? Because we start as a single cell. When our parents' gametes combine and re
 
 Then, the playbook of life is over and they just don't know what to do next. They have some redundant capacity to go on for almost three times longer, up to 100 years, but the guarantee period is already over. That's aging.
 
-Life has memorized how to develop you up to 25 years — not everyone, of course, but the luckiest ones who are healthy will develop without any major health issues. That's the apex of 4 billion years of evolution. They would be able to regenerate the tips of their fingers for 14 years.
+Life has memorized how to develop you up to 25 years — not everyone, of course, but the luckiest ones who are healthy will develop without any major health issues. That's the apex of 4 billion years of evolution [(Kauffman, 2022)](https://doi.org/10.3390/e24101383). They would be able to regenerate the tips of their fingers for 14 years.
 
 Then, they will mature into a healthy adult and start procreating, thus giving birth to the next cycle of life, and rendering the remaining body a soma, or, basically, evolutionary waste. The biological organism (you) — every single cell of yours starts slowly losing function, accumulating errors, making mistakes, accruing damage, whatever you call it. At some point, all fancy damage repair mechanisms fail one by one.
 
@@ -51,3 +51,4 @@ It didn't evolve to reverse time and age — hence we cannot copy it from natura
 1. **A.E. Tarkhov**, S. Wimberger, B.V. Fine. Extracting Lyapunov exponents from the echo dynamics of Bose-Einstein condensates on a lattice. *Phys Rev A* **96**, 023624 (2017). [10.1103/PhysRevA.96.023624](https://doi.org/10.1103/PhysRevA.96.023624)
 2. **A.E. Tarkhov**. Ergodization dynamics of the Gross-Pitaevskii equation on a lattice. Doctoral thesis, Skolkovo Institute of Science and Technology (2020). [link](https://www.skoltech.ru/en/education/phd-defenses/2020-2/andrei-tarkhov/)
 3. **A.E. Tarkhov**, K.A. Denisov, P.O. Fedichev. Aging Clocks, Entropy, and the Challenge of Age Reversal. *Aging Biology* **2**, e20240031 (2024). [10.59368/agingbio.20240031](https://doi.org/10.59368/agingbio.20240031)
+4. S. Kauffman. Is There a 4th Law for Non-Ergodic Systems That Do Work To Construct Their Expanding Phase Space? *Entropy* **24**, 1383 (2022). [10.3390/e24101383](https://doi.org/10.3390/e24101383)
