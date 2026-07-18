@@ -13,7 +13,6 @@ lang: ru
 
 **контакты для связи** <br>
 - [{{ site.author.contact_email }}](mailto:{{ site.author.contact_email }})
-- [personal email](mailto:{{ site.author.email }})
 - [linkedin]({{site.author.linkedin}})
 - [twitter/X]({{site.author.twitter}})
 

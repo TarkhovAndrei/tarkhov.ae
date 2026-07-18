@@ -12,7 +12,6 @@ You can <b><a class="consulting-btn" href="https://buy.stripe.com/6oUeVdfMUcEPec
 
 **feel free to reach out to me via** <br>
 - [{{ site.author.contact_email }}](mailto:{{ site.author.contact_email }})
-- [personal email](mailto:{{ site.author.email }})
 - [linkedin]({{site.author.linkedin}})
 - [twitter/X]({{site.author.twitter}})
 
