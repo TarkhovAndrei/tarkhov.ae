@@ -2,12 +2,12 @@
   url: /
   external: false
 
-- title: consulting
-  url: /consulting/
-  external: false
-
 - title: publications
   url: /publications/
+  external: false
+
+- title: support
+  url: /support/
   external: false
 
 - title: stay in touch

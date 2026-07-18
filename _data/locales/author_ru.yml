@@ -4,10 +4,5 @@ bio: >
     Исследователь долголетия с PhD в теоретической физике, после постдока в Гарварде разрабатываю терапии, замедляющие старение и продлевающие жизнь в <a href="https://retro.bio">retro.bio</a>. Моя мечта — понять, почему мы стареем, и использовать это знание, чтобы существенно продлить здоровое долголетие человека. 
   </p>
   <p>
-    <i>Кликните: <b><a target=_blank href="/ru/subscribe">подписаться</a></b>/<b><a href="/ru/contact/">связаться</a></b> или <b><a class="consulting-btn"
-         href="https://book.stripe.com/7sYcN5fMU0W72uf5RF4AU00"
-         target="_blank" rel="noopener"
-         onclick="if(this.href==='STRIPE_30MIN_URL'){alert('Payment link not configured yet.');return false;}">
-        забронировать консультацию (30 мин)
-      </a></b></i>
+    <i>Кликните: <b><a target=_blank href="/ru/subscribe">подписаться</a></b>/<b><a href="/ru/contact/">связаться</a></b> или <b><a class="consulting-btn" href="/ru/support/">поддержать</a></b></i>
   </p>

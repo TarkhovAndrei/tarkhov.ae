@@ -233,6 +233,13 @@ figcaption b {
     line-height: 1.5;
   }
 
+  .consulting-option--full {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    padding-bottom: 10px;
+  }
+
   @include media-query($on-mobile) {
     .consulting-option {
       flex-direction: column;
@@ -256,6 +263,94 @@ figcaption b {
     }
 
     .consulting-btn {
+      color: $dark-text-link-blue;
+      &:hover {
+        color: $dark-text-link-blue-active;
+      }
+    }
+  }
+}
+
+// Support form
+.support-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+
+  textarea,
+  input[type="email"] {
+    font-family: inherit;
+    font-size: $small-font-size;
+    color: $text-base-color;
+    border: none;
+    border-bottom: 1px solid $light;
+    border-radius: 0;
+    padding: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+    background: transparent;
+    transition: border-color 0.2s;
+    appearance: none;
+
+    &::placeholder {
+      color: $gray;
+      opacity: 0.7;
+    }
+
+    &:focus {
+      outline: none;
+      border-bottom-color: $text-base-color;
+    }
+  }
+
+  textarea {
+    resize: none;
+    height: 48px;
+    line-height: 1.5;
+    margin-bottom: 6px;
+  }
+
+  input[type="email"] {
+    margin-bottom: 10px;
+  }
+
+  .support-form-actions {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+  }
+
+  .support-form-btn {
+    font-family: inherit;
+    font-size: $small-font-size;
+    font-weight: $bold-weight;
+    color: $text-link-blue;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    letter-spacing: 0.2px;
+
+    &:hover {
+      color: $text-link-blue-active;
+    }
+  }
+}
+
+[data-theme="dark"] {
+  .support-form {
+    textarea,
+    input[type="email"] {
+      border-bottom-color: $dark-light;
+      color: $dark-text-base-color;
+
+      &:focus {
+        border-bottom-color: $dark-text-base-color;
+      }
+    }
+
+    .support-form-btn {
       color: $dark-text-link-blue;
       &:hover {
         color: $dark-text-link-blue-active;

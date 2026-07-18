@@ -8,14 +8,7 @@ lang: en
 
 I work on understanding the fundamental mechanisms of aging through compbio & applied AI, physics & chaos theory with the goal to find practical ways extend longevity.
 
-You can <b><a class="consulting-btn"
-         href="https://book.stripe.com/7sYcN5fMU0W72uf5RF4AU00"
-         target="_blank" rel="noopener"
-         onclick="if(this.href==='STRIPE_30MIN_URL'){alert('Payment link not configured yet.');return false;}">
-        book a 30 min consultation
-      </a></b>, <script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script> or if you have a question about aging/longevity
+You can <b><a class="consulting-btn" href="https://buy.stripe.com/6oUeVdfMUcEPecXdk74AU04" target="_blank" rel="noopener">book a 30 min consultation</a></b>, or <b><a class="consulting-btn" href="/support/">support my blog</a></b>, or if you have a question about aging/longevity
 
 **feel free to reach out to me via** <br>
 - [{{ site.author.contact_email }}](mailto:{{ site.author.contact_email }})

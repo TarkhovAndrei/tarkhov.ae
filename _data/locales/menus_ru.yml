@@ -2,12 +2,12 @@
   url: /
   external: false
 
-- title: консультации
-  url: /consulting/
-  external: false
-
 - title: публикации
   url: /publications/
+  external: false
+
+- title: поддержать
+  url: /support/
   external: false
 
 - title: подписаться
