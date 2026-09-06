@@ -12,13 +12,13 @@ lang: ru
 ### публикации по старению
 
 <div class="publication">
-    <h4>GPT-4b micro: ENGINEERING OF AN INHIBITOR-RESISTANT RECEPTOR TYROSINE KINASE</h4>
+    <h4>GPT-4b micro: дизайн рецепторной тирозинкиназы, устойчивой к ингибитору</h4>
     <div class="publication-fig">
         <a class="noarrow" href="https://static1.squarespace.com/static/611faaa8fee682525ee16489/t/68ed250a0410fb451dc977eb/1760371978876/Seattle+International+Symposium+Program+and+Abstract+Book+-+FINAL.pdf#page=40">
             <figure>
                 <img src="/assets/img/rtk.png" width=180
                 alt="GPT-4b micro: Engineering of an inhibitor-resistant receptor tyrosine kinase">
-                <figcaption>Международный симпозиум ISSCR по <b>ИИ и биологии</b></figcaption>
+                <figcaption>Научный руководитель проекта</figcaption>
              </figure>
         </a>
     </div>
