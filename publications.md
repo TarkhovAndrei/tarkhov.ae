@@ -23,7 +23,7 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
         </a>
     </div>
     <div class="publication-text">
-        <p>Engineering of an inhibitor-resistant receptor tyrosine kinase using GPT‑4b micro — a miniature version of GPT‑4o specialized for protein engineering developed in collaboration between OpenAI and Retro Biosciences. Presented at the ISSCR International Symposium for AI and Biology, Seattle.</p>
+        <p>We designed and screened a focused library of receptor tyrosine kinase variants. We identified variants that preserve ligand-dependent signaling while remaining active in the presence of a clinically relevant inhibitor, demonstrating a general framework for engineering receptors with tailored therapeutic properties. Presented at the ISSCR International Symposium for AI and Biology, Seattle.</p>
     </div>
 </div>
 
