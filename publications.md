@@ -12,7 +12,25 @@ You can check out the full list on [google scholar]({{site.author.scholar}}). Be
 ### publications on aging
 
 <div class="publication">
-    <h4>OpenAI and Retro Biosciences collaboration</h4>
+    <h4>GPT-4b micro: ENGINEERING OF AN INHIBITOR-RESISTANT RECEPTOR TYROSINE KINASE</h4>
+    <div class="publication-fig">
+        <a class="noarrow" href="https://static1.squarespace.com/static/611faaa8fee682525ee16489/t/68ed250a0410fb451dc977eb/1760371978876/Seattle+International+Symposium+Program+and+Abstract+Book+-+FINAL.pdf#page=40">
+            <figure>
+                <img src="/assets/img/rtk.png" width=180
+                alt="GPT-4b micro: Engineering of an inhibitor-resistant receptor tyrosine kinase">
+                <figcaption>An ISSCR International Symposium for <b>AI AND BIOLOGY</b></figcaption>
+             </figure>
+        </a>
+    </div>
+    <div class="publication-text">
+        <p>Engineering of an inhibitor-resistant receptor tyrosine kinase using GPT‑4b micro — a miniature version of GPT‑4o specialized for protein engineering developed in collaboration between OpenAI and Retro Biosciences. Presented at the ISSCR International Symposium for AI and Biology, Seattle.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="publication">
+    <h4>GPT‑4b micro: OpenAI and Retro Biosciences collaboration</h4>
     <div class="publication-fig">
         <a class="noarrow" href="https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/">
             <figure>

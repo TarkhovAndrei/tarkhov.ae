@@ -12,7 +12,25 @@ lang: ru
 ### публикации по старению
 
 <div class="publication">
-    <h4>Сотрудничество OpenAI и Retro Biosciences</h4>
+    <h4>GPT-4b micro: ENGINEERING OF AN INHIBITOR-RESISTANT RECEPTOR TYROSINE KINASE</h4>
+    <div class="publication-fig">
+        <a class="noarrow" href="https://static1.squarespace.com/static/611faaa8fee682525ee16489/t/68ed250a0410fb451dc977eb/1760371978876/Seattle+International+Symposium+Program+and+Abstract+Book+-+FINAL.pdf#page=40">
+            <figure>
+                <img src="/assets/img/rtk.png" width=180
+                alt="GPT-4b micro: Engineering of an inhibitor-resistant receptor tyrosine kinase">
+                <figcaption>Международный симпозиум ISSCR по <b>ИИ и биологии</b></figcaption>
+             </figure>
+        </a>
+    </div>
+    <div class="publication-text">
+        <p>Инжиниринг устойчивого к ингибиторам рецептора тирозинкиназы с помощью GPT‑4b micro — миниатюрной версии GPT‑4o, специализированной для белковой инженерии, разработанной в сотрудничестве OpenAI и Retro Biosciences. Представлено на Международном симпозиуме ISSCR по ИИ и биологии, Сиэтл.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="publication">
+    <h4>GPT‑4b micro: сотрудничество OpenAI и Retro Biosciences</h4>
     <div class="publication-fig">
         <a class="noarrow" href="https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/">
             <figure>
