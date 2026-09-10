@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Generative Selection: two weeks in!"
+title: "Angels, labs and biosecurity"
 date: 2026-09-10 12:00:00 -0700
 modified: 2026-09-10 12:00:00 -0700
 description: Week two is over. We explored the wet lab options around SF, and seem to have decided on where to land.
 tag:
   - generative selection
   - updates
+  - week two
 lang: en
 permalink: /starting-company-week-two/
 ---
