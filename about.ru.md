@@ -20,6 +20,7 @@ lang: ru
 - [google scholar]({{site.author.scholar}})
 - [researchgate]({{site.author.researchgate}})
 - [github]({{site.author.github}})
+- [substack]({{site.author.substack}})
 - [скачать резюме/cv](/assets/cv/Resume_Tarkhov_AE_02062025.pdf)
 
 **подпишитесь, чтобы получать обновления о моей работе**

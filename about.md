@@ -19,6 +19,7 @@ You can <b><a class="consulting-btn" href="https://buy.stripe.com/6oUeVdfMUcEPec
 - [google scholar]({{site.author.scholar}})
 - [researchgate]({{site.author.researchgate}})
 - [github]({{site.author.github}})  
+- [substack]({{site.author.substack}})
 - [download my resume/cv](/assets/cv/Resume_Tarkhov_AE_02062025.pdf)
 
 
