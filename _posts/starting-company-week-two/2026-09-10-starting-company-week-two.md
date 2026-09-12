@@ -12,7 +12,7 @@ lang: en
 permalink: /starting-company-week-two/
 ---
 
-Week two is over. We explored the wet lab options around SF, and seem to have decided on where to land. Originally, I was trying to avoid BSL2 (biosafety level 2) to make things faster and easier. We toured a BSL1 lab before in SF, and it was great, except for the lack of BSL2, and we couldn't proceed with them.
+Week two is over. We've got accepted to 5050 by 50 years — probably, the best startup acceleration program for founders in deeptech, including biotech. We explored the wet lab options around SF, and seem to have decided on where to land. Originally, I was trying to avoid BSL2 (biosafety level 2) to make things faster and easier. We toured a BSL1 lab before in SF, and it was great, except for the lack of BSL2, and we couldn't proceed with them.
 
 Why? For our PoC we would anyways need to work with human cells, and that's basically landing us in the BSL2 category with only 1-2 reasonable labspace options. The only annoying thing is that they are slow as hell and keep on scheduling next steps with a weekly cadence. We have already pitched our project to a committee (7 people!) of one of them, and got accepted. Today we're touring the lab space, and, hopefully, will be able to move in and start our wet-lab journey soon! I was thinking that this option is snail-paced but the other one scheduled to talk to us only on September 22nd — it seems like they are very busy.
 
