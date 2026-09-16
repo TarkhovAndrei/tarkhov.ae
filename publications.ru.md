@@ -18,7 +18,7 @@ lang: ru
             <figure>
                 <img src="/assets/img/rtk.png" width=180
                 alt="GPT-4b micro: Engineering of an inhibitor-resistant receptor tyrosine kinase">
-                <figcaption>Научный руководитель проекта</figcaption>
+                <figcaption>Научный руководитель проекта (стр.40)</figcaption>
              </figure>
         </a>
     </div>
