@@ -189,6 +189,22 @@ figcaption b {
   }
 }
 
+// Three-across photo gallery (two-across on mobile)
+.figure-row--three {
+  figure {
+    flex: 0 1 calc((100% - 28px) / 3);
+    min-width: 0;
+    max-width: calc((100% - 28px) / 3);
+  }
+
+  @include media-query($on-mobile) {
+    figure {
+      flex-basis: calc((100% - 14px) / 2);
+      max-width: calc((100% - 14px) / 2);
+    }
+  }
+}
+
 // Consulting section
 .consulting {
   margin-top: 2em;
