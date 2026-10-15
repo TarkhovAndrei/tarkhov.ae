@@ -4,6 +4,7 @@ title: "The magic rule of three"
 date: 2026-10-14 12:00:00 -0700
 modified: 2026-10-14 12:00:00 -0700
 description: Nothing in our new wetlab worked on the first attempt, but everything started working on the second or third run. So far the magic rule of three has been unbreakable.
+image: /assets/img/magic-rule-of-three.jpg
 tag:
   - generative selection
   - updates
@@ -11,6 +12,11 @@ tag:
 lang: en
 permalink: /magic-rule-of-three/
 ---
+
+<figure>
+    <img src="/assets/img/magic-rule-of-three.jpg" alt="Sketch of three stages of a lab experiment: unknown unknowns, known unknowns, success">
+    <figcaption>From unknown unknowns to known unknowns to success</figcaption>
+</figure>
 
 The entry barrier to a mediocre and not super respected job of moving liquids around in the wet lab is insane. People spend years and decades training for it, and, in the end, the market imposes a huge discount on their sacrifices. A wet lab person would be priced 1.5-2x lower, or even more, than someone who has never touched a pipette. Add to that the discount for doing a postdoc in academia, which drags one's salary down for up to 15 years afterwards — you get the point. It sucks to be a wet lab biologist, and nobody (=the market) really respects you for doing that. Then don't be surprised that each approved drug costs $2B to make.
 
