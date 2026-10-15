@@ -3,7 +3,7 @@ layout: post
 title: "The magic rule of three"
 date: 2026-10-14 12:00:00 -0700
 modified: 2026-10-14 12:00:00 -0700
-description: Nothing in our new wetlab worked on the first attempt, but everything started working on the second or third run. So far the magic rule of three has been unbreakable.
+description: In our new wetlab the magic rule of three has been unbreakable.
 image: /assets/img/magic-rule-of-three.jpg
 tag:
   - generative selection
