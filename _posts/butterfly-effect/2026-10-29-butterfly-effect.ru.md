@@ -4,6 +4,7 @@ title: "Эффект бабочки"
 date: 2026-10-29 12:00:00 -0700
 modified: 2026-10-29 12:00:00 -0700
 description: Два месяца с регистрации компании, месяц в нашей лаборатории — и почему крошечное посредственное решение в начале может незаметно съесть месяцы работы.
+image: /assets/img/butterfly-effect/green-wells.jpg
 tag:
   - generative selection
   - updates

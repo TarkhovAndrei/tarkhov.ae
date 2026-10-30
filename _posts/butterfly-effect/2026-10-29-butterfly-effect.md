@@ -4,6 +4,7 @@ title: "The butterfly effect"
 date: 2026-10-29 12:00:00 -0700
 modified: 2026-10-29 12:00:00 -0700
 description: Two months since incorporation, a month in our wetlab — and why a tiny, mediocre early decision can quietly drain months of work downstream.
+image: /assets/img/butterfly-effect/green-wells.jpg
 tag:
   - generative selection
   - updates
